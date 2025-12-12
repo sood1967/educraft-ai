@@ -1,0 +1,7 @@
+{
+  "name": "Excell EduCraft AI",
+  "description": "A pedagogical partner for Indian Schools & Coaching Institutes, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
